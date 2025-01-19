@@ -1,3 +1,3 @@
 # g-correia.github.io
 
-My personal repository.
+My personal website: https://g-correia.github.io/
